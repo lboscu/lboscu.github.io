@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 无数次放弃又追寻的是或活着的意义
 
 You can use the [editor on GitHub](https://github.com/lboscu/lboscu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
