@@ -1,8 +1,6 @@
 ## 无数次放弃又追寻是活着的意义
 
-You can use the [editor on GitHub](https://github.com/lboscu/lboscu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+一个人可以被毁灭，但不能被打败。But man is not made for defeat,"he said."A man can be destroyed but not defeated.
 
 ### Markdown
 
